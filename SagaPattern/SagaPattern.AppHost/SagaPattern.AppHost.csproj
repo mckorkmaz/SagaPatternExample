@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SagaPattern.OrderService\SagaPattern.OrderService.csproj" />
+    <ProjectReference Include="..\SagaPattern.Payment\SagaPattern.Payment.csproj" />
   </ItemGroup>
 
 </Project>

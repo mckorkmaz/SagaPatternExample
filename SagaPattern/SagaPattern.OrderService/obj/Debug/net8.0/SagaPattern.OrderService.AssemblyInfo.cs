@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SagaPattern.OrderService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecff6399193d763e633f0ef54e291f821e823032")]
 [assembly: System.Reflection.AssemblyProductAttribute("SagaPattern.OrderService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SagaPattern.OrderService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

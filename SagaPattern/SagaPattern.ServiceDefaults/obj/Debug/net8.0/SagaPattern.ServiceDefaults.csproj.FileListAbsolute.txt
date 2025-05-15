@@ -10,3 +10,16 @@ C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debu
 C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\refint\SagaPattern.ServiceDefaults.dll
 C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.pdb
 C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\ref\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\bin\Debug\net8.0\SagaPattern.ServiceDefaults.deps.json
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\bin\Debug\net8.0\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\bin\Debug\net8.0\SagaPattern.ServiceDefaults.pdb
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.AssemblyInfo.cs
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.sourcelink.json
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\refint\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.pdb
+C:\Users\mckorkmaz\Desktop\GİTHUB\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\ref\SagaPattern.ServiceDefaults.dll
