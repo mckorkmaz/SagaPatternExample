@@ -1,0 +1,12 @@
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\bin\Debug\net8.0\SagaPattern.ServiceDefaults.deps.json
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\bin\Debug\net8.0\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\bin\Debug\net8.0\SagaPattern.ServiceDefaults.pdb
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.AssemblyInfo.cs
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\refint\SagaPattern.ServiceDefaults.dll
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\SagaPattern.ServiceDefaults.pdb
+C:\Users\mckorkmaz\source\repos\SagaPattern\SagaPattern.ServiceDefaults\obj\Debug\net8.0\ref\SagaPattern.ServiceDefaults.dll
